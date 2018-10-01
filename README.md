@@ -13,7 +13,7 @@ $ npm install hsl-rgb
 ```js
 const hslRgb = require('hsl-rgb');
 
-hsl2rgb(340, 1, 0.5);
+hslRgb(340, 1, 0.5);
 //=> [255, 0, 85]
 ```
 
