@@ -1,4 +1,4 @@
-# hsl-rgb [![Build Status](https://travis-ci.org/varld/hsl-rgb.svg?branch=master)](https://travis-ci.org/varld/hsl-rgb) [![codecov](https://codecov.io/gh/usemeta/hsl-rgb/branch/master/graph/badge.svg)](https://codecov.io/gh/usemeta/hsl-rgb)
+# hsl-rgb [![Build Status](https://travis-ci.org/varld/hsl-rgb.svg?branch=master)](https://travis-ci.org/varld/hsl-rgb) [![codecov](https://codecov.io/gh/varld/hsl-rgb/branch/master/graph/badge.svg)](https://codecov.io/gh/varld/hsl-rgb)
 
 Convert hsl colors to rgb colors.
 
