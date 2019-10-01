@@ -50,7 +50,7 @@ An array of `r`, `g` and `b` values.
 
 ## License
 
-MIT © [Tobias Herber](http://tobihrbr.com)
+MIT © [Tobias Herber](https://herber.space)
 
 <p align="center">
   <br/>
